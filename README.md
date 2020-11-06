@@ -5,6 +5,6 @@ The application has only two files, names.txt and latest.txt. Populated with nam
 random.txt with 11 names on different lines. 
 
 # criteria
--> First names should be sufficient for random.txt.
+-> First names should be sufficient for random.txt. \n
 -> Remove any names, and insert the remaining into latest.txt.
 -> Error checking present.
